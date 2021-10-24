@@ -260,3 +260,64 @@ System memory in use after: 161.6 MB.
 Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 3725.
 Total: 2.718910 ms (FindLiveObjects: 0.365912 ms CreateObjectMapping: 0.137191 ms MarkObjects: 1.875242 ms  DeleteObjects: 0.339850 ms)
 
+========================================================================
+Received Prepare
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 11.08 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.47 ms.
+Unloading 29 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 161.8 MB.
+System memory in use after: 161.7 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 3725.
+Total: 2.654194 ms (FindLiveObjects: 0.352370 ms CreateObjectMapping: 0.149537 ms MarkObjects: 1.815385 ms  DeleteObjects: 0.336265 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 8236.632386 seconds.
+  path: Assets/Butterfly (Animated)/Prefab/Butterfly.prefab
+  artifactKey: Guid(be999fe03c257ec4cb0a3a4b5ca72217) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Butterfly (Animated)/Prefab/Butterfly.prefab using Guid(be999fe03c257ec4cb0a3a4b5ca72217) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '778ba0db8c31ca33c96a3cb2c65bebdc') in 0.754717 seconds
+  Import took 0.776675 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.014251 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for Lumin target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.98 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.47 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.263 seconds
+Platform modules already initialized, skipping
+Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 1.08 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.49 ms.
+Unloading 3111 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 230.0 MB.
+System memory in use after: 230.0 MB.
+
+Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 3774.
+Total: 2.784993 ms (FindLiveObjects: 0.343374 ms CreateObjectMapping: 0.150922 ms MarkObjects: 1.963681 ms  DeleteObjects: 0.326214 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 14.46 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.52 ms.
+Unloading 29 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 172.6 MB.
+System memory in use after: 172.5 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 3774.
+Total: 3.029951 ms (FindLiveObjects: 0.400406 ms CreateObjectMapping: 0.167537 ms MarkObjects: 2.105033 ms  DeleteObjects: 0.356350 ms)
+
