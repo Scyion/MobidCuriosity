@@ -406,3 +406,154 @@ System memory in use after: 177.8 MB.
 Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 3847.
 Total: 2.768159 ms (FindLiveObjects: 0.362704 ms CreateObjectMapping: 0.142979 ms MarkObjects: 1.894346 ms  DeleteObjects: 0.367542 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 5109.369481 seconds.
+  path: Packages/com.unity.textmeshpro/package.json
+  artifactKey: Guid(220e9325710f4235a43492dd1ee4980d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.textmeshpro/package.json using Guid(220e9325710f4235a43492dd1ee4980d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ab2c9c01e74500469ef4fe752fd21b0') in 1.974465 seconds
+  Import took 1.981227 seconds .
+
+========================================================================
+Received Prepare
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 12.29 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.51 ms.
+Unloading 29 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 182.3 MB.
+System memory in use after: 182.2 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 3847.
+Total: 3.403370 ms (FindLiveObjects: 0.366614 ms CreateObjectMapping: 0.140636 ms MarkObjects: 2.546423 ms  DeleteObjects: 0.349038 ms)
+
+========================================================================
+Received Prepare
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 14.94 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.46 ms.
+Unloading 29 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 182.3 MB.
+System memory in use after: 182.2 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 3847.
+Total: 3.180390 ms (FindLiveObjects: 0.361691 ms CreateObjectMapping: 0.132407 ms MarkObjects: 2.333682 ms  DeleteObjects: 0.352102 ms)
+
+========================================================================
+Received Prepare
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 10.99 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.46 ms.
+Unloading 29 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 182.3 MB.
+System memory in use after: 182.3 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 3847.
+Total: 2.986605 ms (FindLiveObjects: 0.334653 ms CreateObjectMapping: 0.120399 ms MarkObjects: 2.185792 ms  DeleteObjects: 0.345194 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1639.243758 seconds.
+  path: Assets/StoneAnimation
+  artifactKey: Guid(ad22ef5c515174e3596895c9a042d454) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StoneAnimation using Guid(ad22ef5c515174e3596895c9a042d454) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c6d00e933446781a9d2e3fc57f9f0d8') in 0.005252 seconds
+  Import took 0.018684 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 46.269085 seconds.
+  path: Assets/StoneAnimation/EntryEffectVideo1.mp4
+  artifactKey: Guid(229bf0ddba4e448af8dcb5587d6aa070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StoneAnimation/EntryEffectVideo1.mp4 using Guid(229bf0ddba4e448af8dcb5587d6aa070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '771410dd44d0f9747f464de91eec8464') in 0.507295 seconds
+  Import took 0.513225 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 126.764818 seconds.
+  path: Assets/StoneAnimation/EntryEffectRenderTexrture.renderTexture
+  artifactKey: Guid(541feae123800400fa7d87dba55f033e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StoneAnimation/EntryEffectRenderTexrture.renderTexture using Guid(541feae123800400fa7d87dba55f033e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66cde27e88f2aee84d02c8461c1648ad') in 0.280177 seconds
+  Import took 0.287116 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 196.879128 seconds.
+  path: Assets/StoneAnimation/EntryEffectMaterial.mat
+  artifactKey: Guid(9ca96b34714ad4b57a0f2e3a8a5943de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StoneAnimation/EntryEffectMaterial.mat using Guid(9ca96b34714ad4b57a0f2e3a8a5943de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2bfa92c6456dd626ca29da93d73069f') in 0.231517 seconds
+  Import took 0.240637 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/StoneAnimation/EntryEffectRenderTexrture.renderTexture
+  artifactKey: Guid(541feae123800400fa7d87dba55f033e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StoneAnimation/EntryEffectRenderTexrture.renderTexture using Guid(541feae123800400fa7d87dba55f033e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08764002dff7649d0741f67aa50caead') in 0.030276 seconds
+  Import took 0.037402 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.013315 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for Lumin target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.11 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.64 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.210 seconds
+Platform modules already initialized, skipping
+Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 1.61 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.74 ms.
+Unloading 3111 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 248.4 MB.
+System memory in use after: 248.4 MB.
+
+Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 3891.
+Total: 4.433496 ms (FindLiveObjects: 0.533064 ms CreateObjectMapping: 0.181785 ms MarkObjects: 3.256319 ms  DeleteObjects: 0.460988 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 4.38 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.44 ms.
+Unloading 29 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 191.3 MB.
+System memory in use after: 191.2 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 3891.
+Total: 2.709594 ms (FindLiveObjects: 0.338996 ms CreateObjectMapping: 0.124380 ms MarkObjects: 1.916417 ms  DeleteObjects: 0.329182 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 842.803633 seconds.
+  path: Assets/StoneAnimation/EntryEffectMaterial.mat
+  artifactKey: Guid(9ca96b34714ad4b57a0f2e3a8a5943de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StoneAnimation/EntryEffectMaterial.mat using Guid(9ca96b34714ad4b57a0f2e3a8a5943de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5349cf91c2cbb694878b2804c4ebebcc') in 0.184740 seconds
+  Import took 0.191192 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/StoneAnimation/EntryEffectRenderTexrture.renderTexture
+  artifactKey: Guid(541feae123800400fa7d87dba55f033e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StoneAnimation/EntryEffectRenderTexrture.renderTexture using Guid(541feae123800400fa7d87dba55f033e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc7a0e007ea4ae34175bcb9bcabfde9a') in 0.027180 seconds
+  Import took 0.032918 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.328809 seconds.
+  path: Assets/StoneAnimation/EntryEffectMaterial.mat
+  artifactKey: Guid(9ca96b34714ad4b57a0f2e3a8a5943de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StoneAnimation/EntryEffectMaterial.mat using Guid(9ca96b34714ad4b57a0f2e3a8a5943de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5349cf91c2cbb694878b2804c4ebebcc') in 0.017118 seconds
+  Import took 0.022788 seconds .
+
