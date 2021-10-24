@@ -557,3 +557,64 @@ Received Import Request.
 Start importing Assets/StoneAnimation/EntryEffectMaterial.mat using Guid(9ca96b34714ad4b57a0f2e3a8a5943de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5349cf91c2cbb694878b2804c4ebebcc') in 0.017118 seconds
   Import took 0.022788 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 1667.477819 seconds.
+  path: Assets/Inst 2_1.aif
+  artifactKey: Guid(cb6d9d3f4b7ca4426a75a9012f652ea1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inst 2_1.aif using Guid(cb6d9d3f4b7ca4426a75a9012f652ea1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17f9591a699efb3c21b81efd002c3832') in 0.463025 seconds
+  Import took 0.475072 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.010889 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for Lumin target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.02 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.50 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.232 seconds
+Platform modules already initialized, skipping
+Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 1.65 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.72 ms.
+Unloading 3111 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 253.2 MB.
+System memory in use after: 253.1 MB.
+
+Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 3933.
+Total: 8.908101 ms (FindLiveObjects: 0.634438 ms CreateObjectMapping: 0.250992 ms MarkObjects: 5.415202 ms  DeleteObjects: 2.606181 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 6.13 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.66 ms.
+Unloading 29 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 196.0 MB.
+System memory in use after: 195.9 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 3933.
+Total: 2.926879 ms (FindLiveObjects: 0.366686 ms CreateObjectMapping: 0.128023 ms MarkObjects: 2.062948 ms  DeleteObjects: 0.368549 ms)
+
+========================================================================
+Received Prepare
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 15.85 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.58 ms.
+Unloading 29 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 196.0 MB.
+System memory in use after: 195.9 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 3933.
+Total: 3.177390 ms (FindLiveObjects: 0.388337 ms CreateObjectMapping: 0.157915 ms MarkObjects: 2.208294 ms  DeleteObjects: 0.422081 ms)
+
