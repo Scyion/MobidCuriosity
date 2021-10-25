@@ -938,3 +938,82 @@ System memory in use after: 147.0 MB.
 Unloading 86 unused Assets to reduce memory usage. Loaded Objects now: 3952.
 Total: 12.778500 ms (FindLiveObjects: 0.350700 ms CreateObjectMapping: 0.169900 ms MarkObjects: 2.759500 ms  DeleteObjects: 9.497200 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 1256.244983 seconds.
+  path: Assets/Oculus/VR/Prefabs/OVRControllerPrefab.prefab
+  artifactKey: Guid(d9809c5e8418bb047bf2c8ba1d1a2cec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Prefabs/OVRControllerPrefab.prefab using Guid(d9809c5e8418bb047bf2c8ba1d1a2cec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f99570a3a2880a99519b90555945f112') in 0.968109 seconds
+  Import took 0.977411 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011079 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 2.71 ms, found 10 plugins.
+Preloading 2 native plugins for Editor in 0.23 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.432 seconds
+Platform modules already initialized, skipping
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 1.27 ms, found 10 plugins.
+Preloading 2 native plugins for Editor in 0.14 ms.
+Unloading 3161 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 169.3 MB.
+System memory in use after: 162.4 MB.
+
+Unloading 85 unused Assets to reduce memory usage. Loaded Objects now: 3996.
+Total: 7.745000 ms (FindLiveObjects: 0.426600 ms CreateObjectMapping: 0.200500 ms MarkObjects: 2.205900 ms  DeleteObjects: 4.910800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 98.674121 seconds.
+  path: Assets/Oculus/VR/Prefabs/OVRPlayerController.prefab
+  artifactKey: Guid(ce816f2e6abb0504092c23ed9b970dfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Prefabs/OVRPlayerController.prefab using Guid(ce816f2e6abb0504092c23ed9b970dfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '806211be5e7349524361955261ed190f') in 0.043521 seconds
+  Import took 0.049991 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 47.839748 seconds.
+  path: Assets/Scenes/New Scene.unity
+  artifactKey: Guid(b9a435325e09b8944a15d18113ce4707) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/New Scene.unity using Guid(b9a435325e09b8944a15d18113ce4707) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b578c6bbe57bd8c41d8b0d645aef6ca') in 0.009517 seconds
+  Import took 0.016135 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.910456 seconds.
+  path: Assets/Scenes/ButterfliesAndAVRRig.unity
+  artifactKey: Guid(b9a435325e09b8944a15d18113ce4707) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/ButterfliesAndAVRRig.unity using Guid(b9a435325e09b8944a15d18113ce4707) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97f48887edeabc2b83c44879cdb99dfa') in 0.014345 seconds
+  Import took 0.021028 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5217.440987 seconds.
+  path: Assets/Scenes/SampleSceneLightingSettings.lighting
+  artifactKey: Guid(477cc4148fad3449482a3bc3178594e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleSceneLightingSettings.lighting using Guid(477cc4148fad3449482a3bc3178594e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '796f4ca2652563aabb920c1beb55d511') in 0.014380 seconds
+  Import took 0.020620 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000383 seconds.
+  path: Assets/Scenes/SampleSceneLightingSettings.lighting
+  artifactKey: Guid(477cc4148fad3449482a3bc3178594e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleSceneLightingSettings.lighting using Guid(477cc4148fad3449482a3bc3178594e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '796f4ca2652563aabb920c1beb55d511') in 0.005072 seconds
+  Import took 0.011701 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.254045 seconds.
+  path: Assets/Scenes/Scene_1.unity
+  artifactKey: Guid(7c39ae4db1ec45f40ab37a0f1f736385) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Scene_1.unity using Guid(7c39ae4db1ec45f40ab37a0f1f736385) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e362f00c39d282c8e4430539e31b5e01') in 0.008801 seconds
+  Import took 0.015204 seconds .
+
